@@ -48,3 +48,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://snipcart-310-228a6.netlify.app'
